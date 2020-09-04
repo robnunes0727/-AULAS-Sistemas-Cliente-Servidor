@@ -177,9 +177,9 @@ Escolha o JDK da Oracle.
 ## 9. Executando o código
 Aperte o botão **Control** duas vezes, aparecerá um menu pedindo código. 
 
-Digite: `mvn spring-boot:run` 
+Também é possivel clicar em **terminal**, na barra inferior da IDE.
 
-Isso criará um botão de PLAY e de STOP no topo da IDE, que é usado para iniciar e parar o projeto. 
+Digite: `mvn spring-boot:run` 
 
 ![Botão iniciar, parar e console Run](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring4.png)
 |:--:|
