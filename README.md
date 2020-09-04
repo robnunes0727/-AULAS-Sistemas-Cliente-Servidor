@@ -168,7 +168,7 @@ Abra a IntelliJ, e na tela inicial clique em **Open or import**, e então aponte
 Com o projeto aberto, comece a programar dentro da pasta **src > main > java**. 
 
 ## 8. Instalando JDK pela IntelliJ 
-Caso você não tenha a JDK instalada, não poderá rodar os programas. 
+Caso você não tenha a JDK instalada, ou **prefere não usar o PATH do Windows**, use a IDE para instalar o JDK para você. 
 
 Para resolver isso, acesse: **File > Project Structure > Platform Settings > SDKs e clique em Download JDK** 
 
@@ -184,5 +184,3 @@ Digite: `mvn spring-boot:run`
 ![Botão iniciar, parar e console Run](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring4.png)
 |:--:|
 | *Pode-se também usar o botão PLAY verde para rodar a aplicação, use o botão STOP vermelho para parar a execução caso faça alguma alteração no código* |
-
-**~~TODO: PATH do Windows~~**
