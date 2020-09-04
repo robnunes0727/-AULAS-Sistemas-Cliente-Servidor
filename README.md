@@ -1,5 +1,5 @@
 # Sistemas Cliente/Servidor: Acesso ao AWS
-Link para log-in: [https://www.awseducate.com/student/s/classrooms](https://www.awseducate.com/student/s/classrooms)
+Link para login: [https://www.awseducate.com/student/s/classrooms](https://www.awseducate.com/student/s/classrooms)
 
 **Índice**
  1. [Pedindo acesso ao professor](#1-pedindo-acesso-ao-professor)
