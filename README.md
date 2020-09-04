@@ -183,5 +183,6 @@ Digite: `mvn spring-boot:run`
 
 ![Botão iniciar, parar e console Run](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring4.png)
 |:--:|
+| *Pode-se também usar o botão PLAY verde para rodar a aplicação, use o botão STOP vermelho para parar a execução caso faça alguma alteração no código* |
 
 **~~TODO: PATH do Windows~~**
