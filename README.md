@@ -7,6 +7,7 @@ Link para login: [https://www.awseducate.com/student/s/classrooms](https://www.a
  3. [Iniciando sua conta AWS](#3-iniciando-sua-conta-aws)
  4. [Acessando a sala de aula](#4-acessando-a-sala-de-aula)
  5. [Logando com uma conta já criada](#5-logando-com-uma-conta-já-criada)
+ 6. [IMPORTANTE](#IMPORTANTE)
 
 ## 1. Pedindo acesso ao professor
 Envie um e-mail para o professor especificando:
@@ -41,7 +42,7 @@ Após receber o e-mail:
 >**Click [here](https://www.awseducate.com) to complete the AWS Educate application process**, ~~accept your Classroom invitation and receive access to program benefits, including cloud career learning pathways, access to AWS resources and promotional credit through the AWS Educate Starter Account, and access to the AWS Educate Job Board, where applicable.~~ 
 >
 >~~Please apply using the link above to accept this invitation. If you do not wish to proceed, ignore this email.~~   
- >
+>
 >~~Thank you,~~  
 >
 >~~AWS Educate~~  
@@ -77,6 +78,12 @@ Por fim, clique em AWS Console e espere as instruções do professor.
 ![AWS Console](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-06.jpg)
 |:--:| 
 | *Não faça nada dentro da dashboard do AWS console até ter instruções do professor.* |
+
+# IMPORTANTE
+Certifique-se que está usando a sala de sua turma, clicando em My Classes na barra superior: 
+![IMPORTANTE - SALA DA TURMA](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-07.png)
+|:--:|
+| *Importante! Certifique-se que está usando a sala de sua turma, não é mostrado em lugar algum qual sala você está usando!* |
 
 ## 5. Logando com uma conta já criada
 Caso já tenha feito o processo de cadastro e precise logar na sua conta para acompanhar a aula, acesse: <br /> https://www.awseducate.com/student/s/classrooms
