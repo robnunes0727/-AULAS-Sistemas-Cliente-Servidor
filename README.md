@@ -22,7 +22,8 @@ Envie um e-mail para o professor especificando:
 >>Turma: *--**4A** ou **3A**--* <br/>
 >> Periodo: Matutino <br/>
  
- Após isso espere um e-mail automático da AWS Educate.
+
+Após isso espere um e-mail automático da AWS Educate.
 
 ## 2. Criando uma conta AWS
 Após receber o e-mail:
@@ -45,36 +46,36 @@ Após receber o e-mail:
 >
 >~~AWS Educate~~  
 
-Clique no link e siga os passos do cadastro, enviarão outro e-mail de confirmação e então analisarão sua inscrição. (leva em torno de 20min)
+Clique no link e siga os passos do cadastro, enviarão outro e-mail de confirmação e então analisarão sua inscrição. *(geralmente leva menos de 20 minutos)*
 
 ## 3. Iniciando sua conta AWS
 Após confirmar o ultimo e-mail, faça login em https://www.awseducate.com/student/s/classrooms, e prossiga até chegar nessa tela:
 ![Primeira tela](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-01.jpg)
-| -- |
+|:--:| 
 | *Siga as instruções do site até chegar nesta tela e clique em AWS Account * |
 
 Clique em AWS account e então em: **Create starter account**.
 ![Segunda tela](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-02.jpg)
-| -- | 
+|:--:| 
 | *Clique em create starter account e siga as instruções se houver alguma* |
 
 ## 4. Acessando a sala de aula
 Clique em **My Classrooms** na barra superior.
 ![My classrooms](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-03.jpg)
-| -- |
+|:--:| 
 | *Clique em My Classrooms na barra superior* | 
 
 Então clique em **Go to Classroom** no curso desejado.
 ![Go to classrom](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-04.jpg)
-| -- |
+|:--:| 
 
 Aceite os termos e condições do *Vocareum*
 ![Termos e Condições do Vocareum](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-05.jpg)
-| -- |
+|:--:| 
 
 Por fim, clique em AWS Console e espere as instruções do professor.
 ![AWS Console](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-06.jpg)
-| -- |
+|:--:| 
 | *Não faça nada dentro da dashboard do AWS console até ter instruções do professor.* |
 
 ## 5. Logando com uma conta já criada
