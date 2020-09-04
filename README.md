@@ -7,7 +7,7 @@ Link para login: [https://www.awseducate.com/student/s/classrooms](https://www.a
  3. [Iniciando sua conta AWS](#3-iniciando-sua-conta-aws)
  4. [Acessando a sala de aula](#4-acessando-a-sala-de-aula)
  5. [Logando com uma conta já criada](#5-logando-com-uma-conta-já-criada)
- 6. [IMPORTANTE](#IMPORTANTE)
+ 6. [**IMPORTANTE**](#IMPORTANTE)
 
 ## 1. Pedindo acesso ao professor
 Envie um e-mail para o professor especificando:
