@@ -61,14 +61,14 @@ Acesse: https://www.jetbrains.com/shop/eform/students
 
 E preencha assim: 
 
-![Ajuste "Graduation date" de acordo com quando o curso irá acabar](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-form.png)
+![Ajuste "Graduation date" de acordo com quando o curso irá acabar](/img-form.png)
 |:--:| 
 | *Ajuste "Graduation date" de acordo com quando pretende terminar o curso* |
 
 ## 3. Acessando e-mail .edu
 Para entrar na caixa de entrada do e-mail educaional, acesse: https://login.microsoftonline.com/ e entre com suas credenciais, depois clique em OUTLOOK.
 
-![Clicar em outlook](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-outlook.png)
+![Clicar em outlook](/img-outlook.png)
 |:--:|
 
 ## 4. Vinculando a licença Ultimate
@@ -92,7 +92,7 @@ You will need to use this account whenever you want to access JetBrains tools.~~
 >The Drive to Develop~~
 
 Clique no link de confirmação, que abrirá a página:
-![Preencha o campo marcado com um e-mail](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-jetcongrats.png)
+![Preencha o campo marcado com um e-mail](/img-jetcongrats.png)
 |:--:|
 
 Preencha o campo marcado na imagem com o e-mail educacional. 
@@ -114,7 +114,7 @@ Depois disso retorne a sua caixa de entrada e confirme novamente o e-mail.
 
 O link de confirmação pedirá outro formulário:
 
-![Preencha todos os campos](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-jetacc.png)
+![Preencha todos os campos](/img-jetacc.png)
 |:--:|
 
 Após preencher todos os campos e confirmar sua licença estará pronta para ser usada.
@@ -124,7 +124,7 @@ Download da IDE: https://www.jetbrains.com/idea/download/download-thanks.html?pl
 
 Após terminar o download, dê next até a parte ***Configure your IntelliJ IDEA installation***:
 
-![Marque essas opções](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-install1.png)
+![Marque essas opções](/img-install1.png)
 |:--:|
 | Recomendadas as opções acima. |
 
@@ -134,18 +134,18 @@ E marque as opções:
 
 Ao chegar na parte de reiniciar, marque para reiniciar depois:
 
-![Quero reiniciar manualmente depois](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-install2.png)
+![Quero reiniciar manualmente depois](/img-install2.png)
 |:--:|
 
 ## 6. Configurando a IDE com a licença
 Abra a IDE, aceite os termos de usuário, envie ou não envie informações anonimas e então dê next até essa parte e instale o AWS toolkit:
 
-![Adicione o AWS toolkit](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config1.png)
+![Adicione o AWS toolkit](/img-config1.png)
 |:--:|
 
 Depois entre com seu login e senha, usados na parte 3.
 
-![E-mail e senha](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-config2.png)
+![E-mail e senha](/img-config2.png)
 |:--:|
 
 E pronto, sua IDE está ativada. Pode reiniciar o computador assim que for conveniente.
@@ -154,7 +154,7 @@ E pronto, sua IDE está ativada. Pode reiniciar o computador assim que for conve
 Acesse: [https://start.spring.io/](https://start.spring.io/)
 Configure assim:
 
-![enter image description here](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring1.png)
+![enter image description here](/img-spring1.png)
 |:--:|
 | *Project: Maven - Language: Java - Spring Boot: 2.3.3* <br /> *Group: com.unicid - Artifact e Name: ~~depende da aula, professor vai passar~~* <br /> *Packaging: Jar - Java: 8*  |
 E adicione a dependência **Spring Web** na lista da direita.
@@ -181,6 +181,6 @@ Também é possivel clicar em **terminal**, na barra inferior da IDE.
 
 Digite: `mvn spring-boot:run` 
 
-![Botão iniciar, parar e console Run](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/tutorial/img-spring4.png)
+![Botão iniciar, parar e console Run](/img-spring4.png)
 |:--:|
 | *Pode-se também usar o botão PLAY verde para rodar a aplicação, use o botão STOP vermelho para parar a execução caso faça alguma alteração no código* |
