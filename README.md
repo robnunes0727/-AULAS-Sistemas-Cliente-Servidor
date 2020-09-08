@@ -17,7 +17,7 @@ Envie um e-mail para o professor especificando:
 >Corpo:
 >
 >>Nome: *--seu nome aqui--* <br/>
->>Email: *--seu e-mail aqui, **pode ser pessoal**--* <br />
+>>Email: *--seu e-mail aqui, **pode ser pessoal e será o e-mail usado para se cadastrar no AWS depois**--* <br />
 >>RGM: **17** *--seu rgm aqui--* <br/>
 >>Curso: Análise e desenvolvimento de sistemas <br/>
 >>Turma: *--**4A** ou **3A**--* <br/>
