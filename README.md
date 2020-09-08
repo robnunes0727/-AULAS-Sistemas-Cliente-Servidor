@@ -51,37 +51,37 @@ Clique no link e siga os passos do cadastro, enviarão outro e-mail de confirma�
 
 ## 3. Iniciando sua conta AWS
 Após confirmar o ultimo e-mail, faça login em https://www.awseducate.com/student/s/classrooms, e prossiga até chegar nessa tela:
-![Primeira tela](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-01.jpg)
+![Primeira tela](/aws-01.jpg)
 |:--:| 
 | *Siga as instruções do site até chegar nesta tela e clique em AWS Account * |
 
 Clique em AWS account e então em: **Create starter account**.
-![Segunda tela](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-02.jpg)
+![Segunda tela](/aws-02.jpg)
 |:--:| 
 | *Clique em create starter account e siga as instruções se houver alguma* |
 
 ## 4. Acessando a sala de aula
 Clique em **My Classrooms** na barra superior.
-![My classrooms](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-03.jpg)
+![My classrooms](/aws-03.jpg)
 |:--:| 
 | *Clique em My Classrooms na barra superior* | 
 
 Então clique em **Go to Classroom** no curso desejado.
-![Go to classrom](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-04.jpg)
+![Go to classrom](/aws-04.jpg)
 |:--:| 
 
 Aceite os termos e condições do *Vocareum*
-![Termos e Condições do Vocareum](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-05.jpg)
+![Termos e Condições do Vocareum](/aws-05.jpg)
 |:--:| 
 
 Por fim, clique em AWS Console e espere as instruções do professor.
-![AWS Console](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-06.jpg)
+![AWS Console](/aws-06.jpg)
 |:--:| 
 | *Não faça nada dentro da dashboard do AWS console até ter instruções do professor.* |
 
 # IMPORTANTE
 Certifique-se que está usando a sala de sua turma, clicando em My Classes na barra superior: 
-![IMPORTANTE - SALA DA TURMA](https://raw.githubusercontent.com/robnunes0727/Sistemas-Cliente-Servidor/aws-tutorial/aws-07.png)
+![IMPORTANTE - SALA DA TURMA](/aws-07.png)
 |:--:|
 | *Importante! Certifique-se que está usando a sala de sua turma, não é mostrado em lugar algum qual sala você está usando!* |
 
