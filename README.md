@@ -168,9 +168,9 @@ Abra a IntelliJ, e na tela inicial clique em **Open or import**, e então aponte
 Com o projeto aberto, comece a programar dentro da pasta **src > main > java**. 
 
 ## 8. Instalando JDK pela IntelliJ 
-Caso você não tenha a JDK instalada, ou **prefere não usar o PATH do Windows**, use a IDE para instalar o JDK para você. 
+**Caso você _não_ tenha a JDK instalada, ou prefere não usar o PATH do Windows**, pode deixar a IDE para instalar o JDK para você. 
 
-Para resolver isso, acesse: **File > Project Structure > Platform Settings > SDKs e clique em Download JDK** 
+Para fazer isso, acesse: **File > Project Structure > Platform Settings > SDKs e clique em Download JDK** 
 
 Escolha o JDK da Oracle.
 
